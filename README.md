@@ -1,5 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Facebook clone with full google authentication ,built with reactjs ,firebase firestore realtime database and react context APi
 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![fb home](https://user-images.githubusercontent.com/48913682/94120964-a8b8b880-fe48-11ea-8082-eb945213e3c3.PNG)
+![devop](https://user-images.githubusercontent.com/48913682/94120979-aeae9980-fe48-11ea-9cd7-0e13e99546d4.jpg)
+![fb sigin](https://user-images.githubusercontent.com/48913682/94121020-ba9a5b80-fe48-11ea-84e5-eef453dd7892.PNG)
 ## Available Scripts
 
 In the project directory, you can run:
